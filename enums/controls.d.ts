@@ -1375,6 +1375,6 @@ declare namespace RageEnums {
 		/**
 		 * X
 		 */
-		INPUT_VEH_TRANSFORM = 357,
+		INPUT_VEH_TRANSFORM = 357
 	}
 }

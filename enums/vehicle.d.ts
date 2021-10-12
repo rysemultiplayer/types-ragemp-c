@@ -478,7 +478,7 @@ declare namespace RageEnums.Vehicle {
 		TRAINS,
 		OPEN_WHEEL,
 	}
-	
+
 	/** [https://wiki.rage.mp/index.php?title=Vehicle_Flags](https://wiki.rage.mp/index.php?title=Vehicle_Flags) */
 	const enum Flags {
 		PRESSINGHORN = 1,
@@ -492,7 +492,7 @@ declare namespace RageEnums.Vehicle {
 		EXITINGFVEHICLE = 256,
 		PLAYERDEAD = 512
 	}
-	
+
 	namespace Mod {
 		/** [https://wiki.rage.mp/index.php?title=Vehicle_Mods](https://wiki.rage.mp/index.php?title=Vehicle_Mods) */
 		const enum Types {
@@ -538,7 +538,7 @@ declare namespace RageEnums.Vehicle {
 			COLOUR_2 = 67,
 		}
 	}
-	
+
 	namespace Color {
 		/** [https://wiki.rage.mp/index.php?title=Vehicle_Colors](https://wiki.rage.mp/index.php?title=Vehicle_Colors) */
 		const enum Hash {
@@ -908,31 +908,31 @@ declare namespace RageEnums.Vehicle {
 		TUG = "tug",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![avisa](https://wiki.rage.mp//images/thumb/1/19/0x9A474B5E.png/142px-0x9A474B5E.png)
 		 */
 		AVISA = "avisa",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![dinghy5](https://wiki.rage.mp//images/thumb/c/c0/0xC58DA34A.png/157px-0xC58DA34A.png)
 		 */
 		DINGHY5 = "dinghy5",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![kosatka](https://wiki.rage.mp//images/thumb/8/86/0x4FAF0D70.png/164px-0x4FAF0D70.png)
 		 */
 		KOSATKA = "kosatka",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![longfin](https://wiki.rage.mp//images/thumb/3/34/0x6EF89CCC.png/164px-0x6EF89CCC.png)
 		 */
 		LONGFIN = "longfin",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![patrolboat](https://wiki.rage.mp//images/thumb/3/32/0xEF813606.png/164px-0xEF813606.png)
 		 */
 		PATROLBOAT = "patrolboat",
@@ -942,19 +942,19 @@ declare namespace RageEnums.Vehicle {
 		BIFF = "biff",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![cerberus](https://wiki.rage.mp//images/thumb/4/45/Cerberus.png/151px-Cerberus.png)
 		 */
 		CERBERUS = "cerberus",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![cerberus2](https://wiki.rage.mp//images/thumb/5/50/Cerberus2.png/164px-Cerberus2.png)
 		 */
 		CERBERUS2 = "cerberus2",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![cerberus3](https://wiki.rage.mp//images/thumb/8/83/Cerberus3.png/164px-Cerberus3.png)
 		 */
 		CERBERUS3 = "cerberus3",
@@ -962,7 +962,7 @@ declare namespace RageEnums.Vehicle {
 		HAULER = "hauler",
 		/**
 		 * DLC: Gunrunning
-		 
+
 		 * ![hauler2](https://wiki.rage.mp//images/thumb/b/bf/Hauler2.png/164px-Hauler2.png)
 		 */
 		HAULER2 = "hauler2",
@@ -980,13 +980,13 @@ declare namespace RageEnums.Vehicle {
 		PHANTOM = "phantom",
 		/**
 		 * DLC: Import/Export
-		 
+
 		 * ![phantom2](https://wiki.rage.mp//images/thumb/2/2b/Phantom2.png/164px-Phantom2.png)
 		 */
 		PHANTOM2 = "phantom2",
 		/**
 		 * DLC: Gunrunning
-		 
+
 		 * ![phantom3](https://wiki.rage.mp//images/thumb/8/81/Phantom3.png/164px-Phantom3.png)
 		 */
 		PHANTOM3 = "phantom3",
@@ -1000,13 +1000,13 @@ declare namespace RageEnums.Vehicle {
 		STOCKADE3 = "stockade3",
 		/**
 		 * DLC: AfterHours
-		 
+
 		 * ![terbyte](https://wiki.rage.mp//images/thumb/9/97/Terbyte.png/164px-Terbyte.png)
 		 */
 		TERBYTE = "terbyte",
 		/**
 		 * DLC: TheDiamondCasinoHeist
-		 
+
 		 * ![asbo](https://wiki.rage.mp//images/thumb/c/cb/Asbo.png/160px-Asbo.png)
 		 */
 		ASBO = "asbo",
@@ -1014,13 +1014,13 @@ declare namespace RageEnums.Vehicle {
 		BLISTA = "blista",
 		/**
 		 * DLC: CunningStunts
-		 
+
 		 * ![brioso](https://wiki.rage.mp//images/thumb/6/6f/Brioso.png/164px-Brioso.png)
 		 */
 		BRIOSO = "brioso",
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![club](https://wiki.rage.mp//images/thumb/5/50/Club.png/159px-Club.png)
 		 */
 		CLUB = "club",
@@ -1030,7 +1030,7 @@ declare namespace RageEnums.Vehicle {
 		DILETTANTE2 = "dilettante2",
 		/**
 		 * DLC: TheDiamondCasinoHeist
-		 
+
 		 * ![kanjo](https://wiki.rage.mp//images/thumb/2/25/Kanjo.png/164px-Kanjo.png)
 		 */
 		KANJO = "kanjo",
@@ -1038,25 +1038,25 @@ declare namespace RageEnums.Vehicle {
 		ISSI2 = "issi2",
 		/**
 		 * DLC: SouthernSanAndreasSuperSportSeries
-		 
+
 		 * ![issi3](https://wiki.rage.mp//images/thumb/7/73/Issi3.png/164px-Issi3.png)
 		 */
 		ISSI3 = "issi3",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![issi4](https://wiki.rage.mp//images/thumb/d/d5/Issi4.png/164px-Issi4.png)
 		 */
 		ISSI4 = "issi4",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![issi5](https://wiki.rage.mp//images/thumb/b/bb/Issi5.png/164px-Issi5.png)
 		 */
 		ISSI5 = "issi5",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![issi6](https://wiki.rage.mp//images/thumb/a/a7/Issi6.png/164px-Issi6.png)
 		 */
 		ISSI6 = "issi6",
@@ -1068,13 +1068,13 @@ declare namespace RageEnums.Vehicle {
 		RHAPSODY = "rhapsody",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![brioso2](https://wiki.rage.mp//images/thumb/4/41/0x55365079.png/140px-0x55365079.png)
 		 */
 		BRIOSO2 = "brioso2",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![weevil](https://wiki.rage.mp//images/thumb/c/c0/0x61FE4D6A.png/164px-0x61FE4D6A.png)
 		 */
 		WEEVIL = "weevil",
@@ -1210,19 +1210,19 @@ declare namespace RageEnums.Vehicle {
 		VOLATUS = "volatus",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![annihilator2](https://wiki.rage.mp//images/thumb/f/fc/0x11962E49.png/164px-0x11962E49.png)
 		 */
 		ANNIHILATOR2 = "annihilator2",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![seasparrow2](https://wiki.rage.mp//images/thumb/7/76/0x494752F7.png/162px-0x494752F7.png)
 		 */
 		SEASPARROW2 = "seasparrow2",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![seasparrow3](https://wiki.rage.mp//images/thumb/e/ef/0x5F017E6B.png/145px-0x5F017E6B.png)
 		 */
 		SEASPARROW3 = "seasparrow3",
@@ -1268,7 +1268,7 @@ declare namespace RageEnums.Vehicle {
 		KHANJALI = "khanjali",
 		/**
 		 * DLC: TheDiamondCasinoHeist
-		 
+
 		 * ![minitank](https://wiki.rage.mp//images/thumb/a/a6/Minitank.png/164px-Minitank.png)
 		 */
 		MINITANK = "minitank",
@@ -1276,19 +1276,19 @@ declare namespace RageEnums.Vehicle {
 		RHINO = "rhino",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![scarab](https://wiki.rage.mp//images/thumb/9/96/Scarab.png/164px-Scarab.png)
 		 */
 		SCARAB = "scarab",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![scarab2](https://wiki.rage.mp//images/thumb/b/b3/Scarab2.png/164px-Scarab2.png)
 		 */
 		SCARAB2 = "scarab2",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![scarab3](https://wiki.rage.mp//images/thumb/3/3a/Scarab3.png/164px-Scarab3.png)
 		 */
 		SCARAB3 = "scarab3",
@@ -1298,7 +1298,7 @@ declare namespace RageEnums.Vehicle {
 		TRAILERSMALL2 = "trailersmall2",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![vetir](https://wiki.rage.mp//images/thumb/1/11/0x780FFBD2.png/147px-0x780FFBD2.png)
 		 */
 		VETIR = "vetir",
@@ -1328,19 +1328,19 @@ declare namespace RageEnums.Vehicle {
 		DEFILER = "defiler",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![deathbike](https://wiki.rage.mp//images/thumb/e/eb/Deathbike.png/164px-Deathbike.png)
 		 */
 		DEATHBIKE = "deathbike",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![deathbike2](https://wiki.rage.mp//images/thumb/7/71/Deathbike2.png/164px-Deathbike2.png)
 		 */
 		DEATHBIKE2 = "deathbike2",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![deathbike3](https://wiki.rage.mp//images/thumb/9/90/Deathbike3.png/164px-Deathbike3.png)
 		 */
 		DEATHBIKE3 = "deathbike3",
@@ -1422,7 +1422,7 @@ declare namespace RageEnums.Vehicle {
 		ZOMBIEB = "zombieb",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![manchez2](https://wiki.rage.mp//images/thumb/a/a3/0x40C332A3.png/137px-0x40C332A3.png)
 		 */
 		MANCHEZ2 = "manchez2",
@@ -1438,7 +1438,7 @@ declare namespace RageEnums.Vehicle {
 		CHINO2 = "chino2",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![clique](https://wiki.rage.mp//images/thumb/3/3c/Clique.png/164px-Clique.png)
 		 */
 		CLIQUE = "clique",
@@ -1446,7 +1446,7 @@ declare namespace RageEnums.Vehicle {
 		COQUETTE3 = "coquette3",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![deviant](https://wiki.rage.mp//images/thumb/d/d5/Deviant.png/164px-Deviant.png)
 		 */
 		DEVIANT = "deviant",
@@ -1458,19 +1458,19 @@ declare namespace RageEnums.Vehicle {
 		DOMINATOR3 = "dominator3",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![dominator4](https://wiki.rage.mp//images/thumb/b/be/Dominator4.png/164px-Dominator4.png)
 		 */
 		DOMINATOR4 = "dominator4",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![dominator5](https://wiki.rage.mp//images/thumb/5/51/Dominator5.png/164px-Dominator5.png)
 		 */
 		DOMINATOR5 = "dominator5",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![dominator6](https://wiki.rage.mp//images/thumb/8/84/Dominator6.png/164px-Dominator6.png)
 		 */
 		DOMINATOR6 = "dominator6",
@@ -1480,7 +1480,7 @@ declare namespace RageEnums.Vehicle {
 		DUKES2 = "dukes2",
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![dukes3](https://wiki.rage.mp//images/thumb/4/45/Dukes3.png/159px-Dukes3.png)
 		 */
 		DUKES3 = "dukes3",
@@ -1502,7 +1502,7 @@ declare namespace RageEnums.Vehicle {
 		GAUNTLET4 = "gauntlet4",
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![gauntlet5](https://wiki.rage.mp//images/thumb/d/de/Gauntlet5.png/159px-Gauntlet5.png)
 		 */
 		GAUNTLET5 = "gauntlet5",
@@ -1514,43 +1514,43 @@ declare namespace RageEnums.Vehicle {
 		HUSTLER = "hustler",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![impaler](https://wiki.rage.mp//images/thumb/3/31/Impaler.png/164px-Impaler.png)
 		 */
 		IMPALER = "impaler",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![impaler2](https://wiki.rage.mp//images/thumb/4/40/Impaler2.png/164px-Impaler2.png)
 		 */
 		IMPALER2 = "impaler2",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![impaler3](https://wiki.rage.mp//images/thumb/9/9b/Impaler3.png/164px-Impaler3.png)
 		 */
 		IMPALER3 = "impaler3",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![impaler4](https://wiki.rage.mp//images/thumb/4/4b/Impaler4.png/164px-Impaler4.png)
 		 */
 		IMPALER4 = "impaler4",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![imperator](https://wiki.rage.mp//images/thumb/b/be/Imperator.png/164px-Imperator.png)
 		 */
 		IMPERATOR = "imperator",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![imperator2](https://wiki.rage.mp//images/thumb/6/6b/Imperator2.png/164px-Imperator2.png)
 		 */
 		IMPERATOR2 = "imperator2",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![imperator3](https://wiki.rage.mp//images/thumb/b/b8/Imperator3.png/164px-Imperator3.png)
 		 */
 		IMPERATOR3 = "imperator3",
@@ -1590,19 +1590,19 @@ declare namespace RageEnums.Vehicle {
 		SLAMVAN3 = "slamvan3",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![slamvan4](https://wiki.rage.mp//images/thumb/8/88/SlamVan4.png/164px-SlamVan4.png)
 		 */
 		SLAMVAN4 = "slamvan4",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![slamvan5](https://wiki.rage.mp//images/thumb/8/8e/SlamVan5.png/164px-SlamVan5.png)
 		 */
 		SLAMVAN5 = "slamvan5",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![slamvan6](https://wiki.rage.mp//images/thumb/f/fa/SlamVan6.png/164px-SlamVan6.png)
 		 */
 		SLAMVAN6 = "slamvan6",
@@ -1616,13 +1616,13 @@ declare namespace RageEnums.Vehicle {
 		TAMPA3 = "tampa3",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![tulip](https://wiki.rage.mp//images/thumb/c/cf/Tulip.png/164px-Tulip.png)
 		 */
 		TULIP = "tulip",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![vamos](https://wiki.rage.mp//images/thumb/0/07/Vamos.png/164px-Vamos.png)
 		 */
 		VAMOS = "vamos",
@@ -1642,13 +1642,13 @@ declare namespace RageEnums.Vehicle {
 		YOSEMITE = "yosemite",
 		/**
 		 * DLC: TheDiamondCasinoHeist
-		 
+
 		 * ![yosemite2](https://wiki.rage.mp//images/thumb/5/58/Yosemite2.png/164px-Yosemite2.png)
 		 */
 		YOSEMITE2 = "yosemite2",
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![yosemite3](https://wiki.rage.mp//images/thumb/8/87/Yosemite3.png/159px-Yosemite3.png)
 		 */
 		YOSEMITE3 = "yosemite3",
@@ -1672,37 +1672,37 @@ declare namespace RageEnums.Vehicle {
 		BRAWLER = "brawler",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![bruiser](https://wiki.rage.mp//images/thumb/e/e4/Bruiser.png/164px-Bruiser.png)
 		 */
 		BRUISER = "bruiser",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![bruiser2](https://wiki.rage.mp//images/thumb/b/ba/Bruiser2.png/164px-Bruiser2.png)
 		 */
 		BRUISER2 = "bruiser2",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![bruiser3](https://wiki.rage.mp//images/thumb/5/5b/Bruiser3.png/164px-Bruiser3.png)
 		 */
 		BRUISER3 = "bruiser3",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![brutus](https://wiki.rage.mp//images/thumb/5/5a/Brutus.png/164px-Brutus.png)
 		 */
 		BRUTUS = "brutus",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![brutus2](https://wiki.rage.mp//images/thumb/f/fe/Brutus2.png/164px-Brutus2.png)
 		 */
 		BRUTUS2 = "brutus2",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![brutus3](https://wiki.rage.mp//images/thumb/f/fd/Brutus3.png/164px-Brutus3.png)
 		 */
 		BRUTUS3 = "brutus3",
@@ -1710,7 +1710,7 @@ declare namespace RageEnums.Vehicle {
 		CARACARA = "caracara",
 		/**
 		 * DLC: TheDiamondCasinoHeist
-		 
+
 		 * ![caracara2](https://wiki.rage.mp//images/thumb/3/3b/Caracara2.png/115px-Caracara2.png)
 		 */
 		CARACARA2 = "caracara2",
@@ -1730,7 +1730,7 @@ declare namespace RageEnums.Vehicle {
 		DUNE5 = "dune5",
 		/**
 		 * DLC: TheDiamondCasinoHeist
-		 
+
 		 * ![everon](https://wiki.rage.mp//images/thumb/8/83/Everon.png/163px-Everon.png)
 		 */
 		EVERON = "everon",
@@ -1756,19 +1756,19 @@ declare namespace RageEnums.Vehicle {
 		MONSTER = "monster",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![monster3](https://wiki.rage.mp//images/thumb/c/ce/Monster3.png/164px-Monster3.png)
 		 */
 		MONSTER3 = "monster3",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![monster4](https://wiki.rage.mp//images/thumb/3/37/Monster4.png/164px-Monster4.png)
 		 */
 		MONSTER4 = "monster4",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![monster5](https://wiki.rage.mp//images/thumb/8/82/Monster5.png/164px-Monster5.png)
 		 */
 		MONSTER5 = "monster5",
@@ -1778,7 +1778,7 @@ declare namespace RageEnums.Vehicle {
 		OUTLAW = "outlaw",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![nightshark](https://wiki.rage.mp//images/thumb/8/85/Nightshark.png/164px-Nightshark.png)
 		 */
 		NIGHTSHARK = "nightshark",
@@ -1792,7 +1792,7 @@ declare namespace RageEnums.Vehicle {
 		REBEL2 = "rebel2",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![rcbandito](https://wiki.rage.mp//images/thumb/f/fc/RCBandito.png/164px-RCBandito.png)
 		 */
 		RCBANDITO = "rcbandito",
@@ -1818,13 +1818,13 @@ declare namespace RageEnums.Vehicle {
 		ZHABA = "zhaba",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![verus](https://wiki.rage.mp//images/thumb/1/10/0x11CBC051.png/130px-0x11CBC051.png)
 		 */
 		VERUS = "verus",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![winky](https://wiki.rage.mp//images/thumb/b/b2/0xF376F1E6.png/159px-0xF376F1E6.png)
 		 */
 		WINKY = "winky",
@@ -1834,13 +1834,13 @@ declare namespace RageEnums.Vehicle {
 		FORMULA2 = "formula2",
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![openwheel1](https://wiki.rage.mp//images/thumb/a/ae/Openwheel1.png/159px-Openwheel1.png)
 		 */
 		OPENWHEEL1 = "openwheel1",
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![openwheel2](https://wiki.rage.mp//images/thumb/4/49/Openwheel2.png/159px-Openwheel2.png)
 		 */
 		OPENWHEEL2 = "openwheel2",
@@ -1922,7 +1922,7 @@ declare namespace RageEnums.Vehicle {
 		VOLATOL = "volatol",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![alkonost](https://wiki.rage.mp//images/thumb/1/1d/0xEA313705.png/164px-0xEA313705.png)
 		 */
 		ALKONOST = "alkonost",
@@ -1964,7 +1964,7 @@ declare namespace RageEnums.Vehicle {
 		LANDSTALKER = "landstalker",
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![landstalker2](https://wiki.rage.mp//images/thumb/b/b1/Landstalker2.png/159px-Landstalker2.png)
 		 */
 		LANDSTALKER2 = "landstalker2",
@@ -1978,7 +1978,7 @@ declare namespace RageEnums.Vehicle {
 		PATRIOT = "patriot",
 		/**
 		 * DLC: AfterHours
-		 
+
 		 * ![patriot2](https://wiki.rage.mp//images/thumb/8/83/Patriot2.png/164px-Patriot2.png)
 		 */
 		PATRIOT2 = "patriot2",
@@ -1986,7 +1986,7 @@ declare namespace RageEnums.Vehicle {
 		RADI = "radi",
 		/**
 		 * DLC: TheDiamondCasinoHeist
-		 
+
 		 * ![rebla](https://wiki.rage.mp//images/thumb/9/94/Rebla.png/136px-Rebla.png)
 		 */
 		REBLA = "rebla",
@@ -1996,7 +1996,7 @@ declare namespace RageEnums.Vehicle {
 		SEMINOLE = "seminole",
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![seminole2](https://wiki.rage.mp//images/thumb/d/d9/Seminole2.png/159px-Seminole2.png)
 		 */
 		SEMINOLE2 = "seminole2",
@@ -2004,7 +2004,7 @@ declare namespace RageEnums.Vehicle {
 		SERRANO = "serrano",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![toros](https://wiki.rage.mp//images/thumb/f/f1/Toros.png/164px-Toros.png)
 		 */
 		TOROS = "toros",
@@ -2014,7 +2014,7 @@ declare namespace RageEnums.Vehicle {
 		XLS2 = "xls2",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![squaddie](https://wiki.rage.mp//images/thumb/d/d6/0xF9E67C05.png/147px-0xF9E67C05.png)
 		 */
 		SQUADDIE = "squaddie",
@@ -2044,7 +2044,7 @@ declare namespace RageEnums.Vehicle {
 		GLENDALE = "glendale",
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![glendale2](https://wiki.rage.mp//images/thumb/b/bd/Glendale2.png/159px-Glendale2.png)
 		 */
 		GLENDALE2 = "glendale2",
@@ -2136,7 +2136,7 @@ declare namespace RageEnums.Vehicle {
 		COQUETTE = "coquette",
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![coquette4](https://wiki.rage.mp//images/thumb/9/97/Coquette4.png/159px-Coquette4.png)
 		 */
 		COQUETTE4 = "coquette4",
@@ -2144,7 +2144,7 @@ declare namespace RageEnums.Vehicle {
 		DRAFTER = "drafter",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![deveste](https://wiki.rage.mp//images/thumb/3/3f/Deveste.png/164px-Deveste.png)
 		 */
 		DEVESTE = "deveste",
@@ -2168,13 +2168,13 @@ declare namespace RageEnums.Vehicle {
 		HOTRING = "hotring",
 		/**
 		 * DLC: TheDiamondCasinoHeist
-		 
+
 		 * ![komoda](https://wiki.rage.mp//images/thumb/4/47/Komoda.png/164px-Komoda.png)
 		 */
 		KOMODA = "komoda",
 		/**
 		 * DLC: TheDiamondCasinoHeist
-		 
+
 		 * ![imorgon](https://wiki.rage.mp//images/thumb/1/1f/Imorgon.png/164px-Imorgon.png)
 		 */
 		IMORGON = "imorgon",
@@ -2182,7 +2182,7 @@ declare namespace RageEnums.Vehicle {
 		ISSI7 = "issi7",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![italigto](https://wiki.rage.mp//images/thumb/8/83/ItaliGTO.png/164px-ItaliGTO.png)
 		 */
 		ITALIGTO = "italigto",
@@ -2228,7 +2228,7 @@ declare namespace RageEnums.Vehicle {
 		PENUMBRA = "penumbra",
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![penumbra2](https://wiki.rage.mp//images/thumb/d/dd/Penumbra2.png/159px-Penumbra2.png)
 		 */
 		PENUMBRA2 = "penumbra2",
@@ -2244,7 +2244,7 @@ declare namespace RageEnums.Vehicle {
 		REVOLTER = "revolter",
 		/**
 		 * DLC: CunningStunts:SpecialVehicleCircuit
-		 
+
 		 * ![ruston](https://wiki.rage.mp//images/thumb/b/ba/Ruston.png/164px-Ruston.png)
 		 */
 		RUSTON = "ruston",
@@ -2254,25 +2254,25 @@ declare namespace RageEnums.Vehicle {
 		SCHAFTER3 = "schafter3",
 		/**
 		 * DLC: ExecutivesandotherCriminals
-		 
+
 		 * ![schafter4](https://wiki.rage.mp//images/thumb/2/29/Schafter4.png/164px-Schafter4.png)
 		 */
 		SCHAFTER4 = "schafter4",
 		/**
 		 * DLC: ExecutivesandotherCriminals
-		 
+
 		 * ![schafter5](https://wiki.rage.mp//images/thumb/2/28/Schafter5.png/164px-Schafter5.png)
 		 */
 		SCHAFTER5 = "schafter5",
 		/**
 		 * DLC: ExecutivesandotherCriminals
-		 
+
 		 * ![schafter6](https://wiki.rage.mp//images/thumb/a/a6/Schafter6.png/164px-Schafter6.png)
 		 */
 		SCHAFTER6 = "schafter6",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![schlagen](https://wiki.rage.mp//images/thumb/9/97/Schlagen.png/164px-Schlagen.png)
 		 */
 		SCHLAGEN = "schlagen",
@@ -2304,43 +2304,43 @@ declare namespace RageEnums.Vehicle {
 		VERLIERER2 = "verlierer2",
 		/**
 		 * DLC: TheDiamondCasinoHeist
-		 
+
 		 * ![vstr](https://wiki.rage.mp//images/thumb/4/43/Vstr.png/164px-Vstr.png)
 		 */
 		VSTR = "vstr",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![zr380](https://wiki.rage.mp//images/thumb/b/ba/ZR380.png/164px-ZR380.png)
 		 */
 		ZR380 = "zr380",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![zr3802](https://wiki.rage.mp//images/thumb/2/21/ZR3802.png/164px-ZR3802.png)
 		 */
 		ZR3802 = "zr3802",
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![zr3803](https://wiki.rage.mp//images/thumb/3/35/ZR3803.png/164px-ZR3803.png)
 		 */
 		ZR3803 = "zr3803",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![italirsx](https://wiki.rage.mp//images/thumb/1/1a/0xBB78956A.png/164px-0xBB78956A.png)
 		 */
 		ITALIRSX = "italirsx",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![veto](https://wiki.rage.mp//images/thumb/1/11/0xCCE5C8FA.png/157px-0xCCE5C8FA.png)
 		 */
 		VETO = "veto",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![veto2](https://wiki.rage.mp//images/thumb/c/cc/0xA703E4A9.png/164px-0xA703E4A9.png)
 		 */
 		VETO2 = "veto2",
@@ -2380,7 +2380,7 @@ declare namespace RageEnums.Vehicle {
 		MANANA = "manana",
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![manana2](https://wiki.rage.mp//images/thumb/9/9e/Manana2.png/159px-Manana2.png)
 		 */
 		MANANA2 = "manana2",
@@ -2394,7 +2394,7 @@ declare namespace RageEnums.Vehicle {
 		PEYOTE = "peyote",
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![peyote3](https://wiki.rage.mp//images/thumb/d/d9/Peyote3.png/159px-Peyote3.png)
 		 */
 		PEYOTE3 = "peyote3",
@@ -2444,7 +2444,7 @@ declare namespace RageEnums.Vehicle {
 		CHEBUREK = "cheburek",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![toreador](https://wiki.rage.mp//images/thumb/3/30/0x56C8A5EF.png/164px-0x56C8A5EF.png)
 		 */
 		TOREADOR = "toreador",
@@ -2518,7 +2518,7 @@ declare namespace RageEnums.Vehicle {
 		THRAX = "thrax",
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![tigon](https://wiki.rage.mp//images/thumb/f/f4/Tigon.png/159px-Tigon.png)
 		 */
 		TIGON = "tigon",
@@ -2650,7 +2650,7 @@ declare namespace RageEnums.Vehicle {
 		UTILLITRUCK3 = "utillitruck3",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![slamtruck](https://wiki.rage.mp//images/thumb/2/22/0xC1A8A914.png/164px-0xC1A8A914.png)
 		 */
 		SLAMTRUCK = "slamtruck",
@@ -2724,7 +2724,7 @@ declare namespace RageEnums.Vehicle {
 		YOUGA2 = "youga2",
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![youga3](https://wiki.rage.mp//images/thumb/0/00/Youga3.png/159px-Youga3.png)
 		 */
 		YOUGA3 = "youga3",
@@ -2773,31 +2773,31 @@ declare namespace RageEnums.Vehicle {
 		TUG = 0x82CAC433,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![avisa](https://wiki.rage.mp//images/thumb/1/19/0x9A474B5E.png/142px-0x9A474B5E.png)
 		 */
 		AVISA = 0x9A474B5E,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![dinghy5](https://wiki.rage.mp//images/thumb/c/c0/0xC58DA34A.png/157px-0xC58DA34A.png)
 		 */
 		DINGHY5 = 0xC58DA34A,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![kosatka](https://wiki.rage.mp//images/thumb/8/86/0x4FAF0D70.png/164px-0x4FAF0D70.png)
 		 */
 		KOSATKA = 0x4FAF0D70,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![longfin](https://wiki.rage.mp//images/thumb/3/34/0x6EF89CCC.png/164px-0x6EF89CCC.png)
 		 */
 		LONGFIN = 0x6EF89CCC,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![patrolboat](https://wiki.rage.mp//images/thumb/3/32/0xEF813606.png/164px-0xEF813606.png)
 		 */
 		PATROLBOAT = 0xEF813606,
@@ -2807,19 +2807,19 @@ declare namespace RageEnums.Vehicle {
 		BIFF = 0x32B91AE8,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![cerberus](https://wiki.rage.mp//images/thumb/4/45/Cerberus.png/151px-Cerberus.png)
 		 */
 		CERBERUS = 0xD039510B,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![cerberus2](https://wiki.rage.mp//images/thumb/5/50/Cerberus2.png/164px-Cerberus2.png)
 		 */
 		CERBERUS2 = 0x287FA449,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![cerberus3](https://wiki.rage.mp//images/thumb/8/83/Cerberus3.png/164px-Cerberus3.png)
 		 */
 		CERBERUS3 = 0x71D3B6F0,
@@ -2827,7 +2827,7 @@ declare namespace RageEnums.Vehicle {
 		HAULER = 0x5A82F9AE,
 		/**
 		 * DLC: Gunrunning
-		 
+
 		 * ![hauler2](https://wiki.rage.mp//images/thumb/b/bf/Hauler2.png/164px-Hauler2.png)
 		 */
 		HAULER2 = 0x171C92C4,
@@ -2845,13 +2845,13 @@ declare namespace RageEnums.Vehicle {
 		PHANTOM = 0x809AA4CB,
 		/**
 		 * DLC: Import/Export
-		 
+
 		 * ![phantom2](https://wiki.rage.mp//images/thumb/2/2b/Phantom2.png/164px-Phantom2.png)
 		 */
 		PHANTOM2 = 0x9DAE1398,
 		/**
 		 * DLC: Gunrunning
-		 
+
 		 * ![phantom3](https://wiki.rage.mp//images/thumb/8/81/Phantom3.png/164px-Phantom3.png)
 		 */
 		PHANTOM3 = 0xA90ED5C,
@@ -2865,13 +2865,13 @@ declare namespace RageEnums.Vehicle {
 		STOCKADE3 = 0xF337AB36,
 		/**
 		 * DLC: AfterHours
-		 
+
 		 * ![terbyte](https://wiki.rage.mp//images/thumb/9/97/Terbyte.png/164px-Terbyte.png)
 		 */
 		TERBYTE = 0x897AFC65,
 		/**
 		 * DLC: TheDiamondCasinoHeist
-		 
+
 		 * ![asbo](https://wiki.rage.mp//images/thumb/c/cb/Asbo.png/160px-Asbo.png)
 		 */
 		ASBO = 0x42ACA95F,
@@ -2879,13 +2879,13 @@ declare namespace RageEnums.Vehicle {
 		BLISTA = 0xEB70965F,
 		/**
 		 * DLC: CunningStunts
-		 
+
 		 * ![brioso](https://wiki.rage.mp//images/thumb/6/6f/Brioso.png/164px-Brioso.png)
 		 */
 		BRIOSO = 0x5C55CB39,
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![club](https://wiki.rage.mp//images/thumb/5/50/Club.png/159px-Club.png)
 		 */
 		CLUB = 0x82E47E85,
@@ -2895,7 +2895,7 @@ declare namespace RageEnums.Vehicle {
 		DILETTANTE2 = 0x64430650,
 		/**
 		 * DLC: TheDiamondCasinoHeist
-		 
+
 		 * ![kanjo](https://wiki.rage.mp//images/thumb/2/25/Kanjo.png/164px-Kanjo.png)
 		 */
 		KANJO = 0x18619B7E,
@@ -2903,25 +2903,25 @@ declare namespace RageEnums.Vehicle {
 		ISSI2 = 0xB9CB3B69,
 		/**
 		 * DLC: SouthernSanAndreasSuperSportSeries
-		 
+
 		 * ![issi3](https://wiki.rage.mp//images/thumb/7/73/Issi3.png/164px-Issi3.png)
 		 */
 		ISSI3 = 0x378236E1,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![issi4](https://wiki.rage.mp//images/thumb/d/d5/Issi4.png/164px-Issi4.png)
 		 */
 		ISSI4 = 0x256E92BA,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![issi5](https://wiki.rage.mp//images/thumb/b/bb/Issi5.png/164px-Issi5.png)
 		 */
 		ISSI5 = 0x5BA0FF1E,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![issi6](https://wiki.rage.mp//images/thumb/a/a7/Issi6.png/164px-Issi6.png)
 		 */
 		ISSI6 = 0x49E25BA1,
@@ -2933,13 +2933,13 @@ declare namespace RageEnums.Vehicle {
 		RHAPSODY = 0x322CF98F,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![brioso2](https://wiki.rage.mp//images/thumb/4/41/0x55365079.png/140px-0x55365079.png)
 		 */
 		BRIOSO2 = 0x55365079,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![weevil](https://wiki.rage.mp//images/thumb/c/c0/0x61FE4D6A.png/164px-0x61FE4D6A.png)
 		 */
 		WEEVIL = 0x61FE4D6A,
@@ -3075,19 +3075,19 @@ declare namespace RageEnums.Vehicle {
 		VOLATUS = 0x920016F1,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![annihilator2](https://wiki.rage.mp//images/thumb/f/fc/0x11962E49.png/164px-0x11962E49.png)
 		 */
 		ANNIHILATOR2 = 0x11962E49,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![seasparrow2](https://wiki.rage.mp//images/thumb/7/76/0x494752F7.png/162px-0x494752F7.png)
 		 */
 		SEASPARROW2 = 0x494752F7,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![seasparrow3](https://wiki.rage.mp//images/thumb/e/ef/0x5F017E6B.png/145px-0x5F017E6B.png)
 		 */
 		SEASPARROW3 = 0x5F017E6B,
@@ -3133,7 +3133,7 @@ declare namespace RageEnums.Vehicle {
 		KHANJALI = 0xAA6F980A,
 		/**
 		 * DLC: TheDiamondCasinoHeist
-		 
+
 		 * ![minitank](https://wiki.rage.mp//images/thumb/a/a6/Minitank.png/164px-Minitank.png)
 		 */
 		MINITANK = 0xB53C6C52,
@@ -3141,19 +3141,19 @@ declare namespace RageEnums.Vehicle {
 		RHINO = 0x2EA68690,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![scarab](https://wiki.rage.mp//images/thumb/9/96/Scarab.png/164px-Scarab.png)
 		 */
 		SCARAB = 0xBBA2A2F7,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![scarab2](https://wiki.rage.mp//images/thumb/b/b3/Scarab2.png/164px-Scarab2.png)
 		 */
 		SCARAB2 = 0x5BEB3CE0,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![scarab3](https://wiki.rage.mp//images/thumb/3/3a/Scarab3.png/164px-Scarab3.png)
 		 */
 		SCARAB3 = 0xDD71BFEB,
@@ -3163,7 +3163,7 @@ declare namespace RageEnums.Vehicle {
 		TRAILERSMALL2 = 0x8FD54EBB,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![vetir](https://wiki.rage.mp//images/thumb/1/11/0x780FFBD2.png/147px-0x780FFBD2.png)
 		 */
 		VETIR = 0x780FFBD2,
@@ -3193,19 +3193,19 @@ declare namespace RageEnums.Vehicle {
 		DEFILER = 0x30FF0190,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![deathbike](https://wiki.rage.mp//images/thumb/e/eb/Deathbike.png/164px-Deathbike.png)
 		 */
 		DEATHBIKE = 0xFE5F0722,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![deathbike2](https://wiki.rage.mp//images/thumb/7/71/Deathbike2.png/164px-Deathbike2.png)
 		 */
 		DEATHBIKE2 = 0x93F09558,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![deathbike3](https://wiki.rage.mp//images/thumb/9/90/Deathbike3.png/164px-Deathbike3.png)
 		 */
 		DEATHBIKE3 = 0xAE12C99C,
@@ -3287,7 +3287,7 @@ declare namespace RageEnums.Vehicle {
 		ZOMBIEB = 0xDE05FB87,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![manchez2](https://wiki.rage.mp//images/thumb/a/a3/0x40C332A3.png/137px-0x40C332A3.png)
 		 */
 		MANCHEZ2 = 0x40C332A3,
@@ -3303,7 +3303,7 @@ declare namespace RageEnums.Vehicle {
 		CHINO2 = 0xAED64A63,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![clique](https://wiki.rage.mp//images/thumb/3/3c/Clique.png/164px-Clique.png)
 		 */
 		CLIQUE = 0xA29F78B0,
@@ -3311,7 +3311,7 @@ declare namespace RageEnums.Vehicle {
 		COQUETTE3 = 0x2EC385FE,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![deviant](https://wiki.rage.mp//images/thumb/d/d5/Deviant.png/164px-Deviant.png)
 		 */
 		DEVIANT = 0x4C3FFF49,
@@ -3323,19 +3323,19 @@ declare namespace RageEnums.Vehicle {
 		DOMINATOR3 = 0xC52C6B93,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![dominator4](https://wiki.rage.mp//images/thumb/b/be/Dominator4.png/164px-Dominator4.png)
 		 */
 		DOMINATOR4 = 0xD6FB0F30,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![dominator5](https://wiki.rage.mp//images/thumb/5/51/Dominator5.png/164px-Dominator5.png)
 		 */
 		DOMINATOR5 = 0xAE0A3D4F,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![dominator6](https://wiki.rage.mp//images/thumb/8/84/Dominator6.png/164px-Dominator6.png)
 		 */
 		DOMINATOR6 = 0xB2E046FB,
@@ -3345,7 +3345,7 @@ declare namespace RageEnums.Vehicle {
 		DUKES2 = 0xEC8F7094,
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![dukes3](https://wiki.rage.mp//images/thumb/4/45/Dukes3.png/159px-Dukes3.png)
 		 */
 		DUKES3 = 0x7F3415E3,
@@ -3367,7 +3367,7 @@ declare namespace RageEnums.Vehicle {
 		GAUNTLET4 = 0x734C5E50,
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![gauntlet5](https://wiki.rage.mp//images/thumb/d/de/Gauntlet5.png/159px-Gauntlet5.png)
 		 */
 		GAUNTLET5 = 0x817AFAAD,
@@ -3379,43 +3379,43 @@ declare namespace RageEnums.Vehicle {
 		HUSTLER = 0x23CA25F2,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![impaler](https://wiki.rage.mp//images/thumb/3/31/Impaler.png/164px-Impaler.png)
 		 */
 		IMPALER = 0xB2E046FB,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![impaler2](https://wiki.rage.mp//images/thumb/4/40/Impaler2.png/164px-Impaler2.png)
 		 */
 		IMPALER2 = 0x3C26BD0C,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![impaler3](https://wiki.rage.mp//images/thumb/9/9b/Impaler3.png/164px-Impaler3.png)
 		 */
 		IMPALER3 = 0x8D45DF49,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![impaler4](https://wiki.rage.mp//images/thumb/4/4b/Impaler4.png/164px-Impaler4.png)
 		 */
 		IMPALER4 = 0x9804F4C7,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![imperator](https://wiki.rage.mp//images/thumb/b/be/Imperator.png/164px-Imperator.png)
 		 */
 		IMPERATOR = 0x1A861243,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![imperator2](https://wiki.rage.mp//images/thumb/6/6b/Imperator2.png/164px-Imperator2.png)
 		 */
 		IMPERATOR2 = 0x619C1B82,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![imperator3](https://wiki.rage.mp//images/thumb/b/b8/Imperator3.png/164px-Imperator3.png)
 		 */
 		IMPERATOR3 = 0xD2F77E37,
@@ -3455,19 +3455,19 @@ declare namespace RageEnums.Vehicle {
 		SLAMVAN3 = 0x42BC5E19,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![slamvan4](https://wiki.rage.mp//images/thumb/8/88/SlamVan4.png/164px-SlamVan4.png)
 		 */
 		SLAMVAN4 = 0x8526E2F5,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![slamvan5](https://wiki.rage.mp//images/thumb/8/8e/SlamVan5.png/164px-SlamVan5.png)
 		 */
 		SLAMVAN5 = 0x163F8520,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![slamvan6](https://wiki.rage.mp//images/thumb/f/fa/SlamVan6.png/164px-SlamVan6.png)
 		 */
 		SLAMVAN6 = 0x67D52852,
@@ -3481,13 +3481,13 @@ declare namespace RageEnums.Vehicle {
 		TAMPA3 = 0xB7D9F7F1,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![tulip](https://wiki.rage.mp//images/thumb/c/cf/Tulip.png/164px-Tulip.png)
 		 */
 		TULIP = 0x56D42971,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![vamos](https://wiki.rage.mp//images/thumb/0/07/Vamos.png/164px-Vamos.png)
 		 */
 		VAMOS = 0xFD128DFD,
@@ -3507,13 +3507,13 @@ declare namespace RageEnums.Vehicle {
 		YOSEMITE = 0x6F946279,
 		/**
 		 * DLC: TheDiamondCasinoHeist
-		 
+
 		 * ![yosemite2](https://wiki.rage.mp//images/thumb/5/58/Yosemite2.png/164px-Yosemite2.png)
 		 */
 		YOSEMITE2 = 0x64F49967,
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![yosemite3](https://wiki.rage.mp//images/thumb/8/87/Yosemite3.png/159px-Yosemite3.png)
 		 */
 		YOSEMITE3 = 0x0409D787,
@@ -3537,37 +3537,37 @@ declare namespace RageEnums.Vehicle {
 		BRAWLER = 0xA7CE1BC5,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![bruiser](https://wiki.rage.mp//images/thumb/e/e4/Bruiser.png/164px-Bruiser.png)
 		 */
 		BRUISER = 0x27D79225,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![bruiser2](https://wiki.rage.mp//images/thumb/b/ba/Bruiser2.png/164px-Bruiser2.png)
 		 */
 		BRUISER2 = 0x9B065C9E,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![bruiser3](https://wiki.rage.mp//images/thumb/5/5b/Bruiser3.png/164px-Bruiser3.png)
 		 */
 		BRUISER3 = 0x8644331A,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![brutus](https://wiki.rage.mp//images/thumb/5/5a/Brutus.png/164px-Brutus.png)
 		 */
 		BRUTUS = 0x7F81A829,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![brutus2](https://wiki.rage.mp//images/thumb/f/fe/Brutus2.png/164px-Brutus2.png)
 		 */
 		BRUTUS2 = 0x8F49AE28,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![brutus3](https://wiki.rage.mp//images/thumb/f/fd/Brutus3.png/164px-Brutus3.png)
 		 */
 		BRUTUS3 = 0x798682A2,
@@ -3575,7 +3575,7 @@ declare namespace RageEnums.Vehicle {
 		CARACARA = 0x4ABEBF23,
 		/**
 		 * DLC: TheDiamondCasinoHeist
-		 
+
 		 * ![caracara2](https://wiki.rage.mp//images/thumb/3/3b/Caracara2.png/115px-Caracara2.png)
 		 */
 		CARACARA2 = 0xAF966F3C,
@@ -3595,7 +3595,7 @@ declare namespace RageEnums.Vehicle {
 		DUNE5 = 0xED62BFA9,
 		/**
 		 * DLC: TheDiamondCasinoHeist
-		 
+
 		 * ![everon](https://wiki.rage.mp//images/thumb/8/83/Everon.png/163px-Everon.png)
 		 */
 		EVERON = 0x97553C28,
@@ -3621,19 +3621,19 @@ declare namespace RageEnums.Vehicle {
 		MONSTER = 0xCD93A7DB,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![monster3](https://wiki.rage.mp//images/thumb/c/ce/Monster3.png/164px-Monster3.png)
 		 */
 		MONSTER3 = 0x669EB40A,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![monster4](https://wiki.rage.mp//images/thumb/3/37/Monster4.png/164px-Monster4.png)
 		 */
 		MONSTER4 = 0x32174AFC,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![monster5](https://wiki.rage.mp//images/thumb/8/82/Monster5.png/164px-Monster5.png)
 		 */
 		MONSTER5 = 0xD556917C,
@@ -3643,7 +3643,7 @@ declare namespace RageEnums.Vehicle {
 		OUTLAW = 0x185E2FF3,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![nightshark](https://wiki.rage.mp//images/thumb/8/85/Nightshark.png/164px-Nightshark.png)
 		 */
 		NIGHTSHARK = 0x19DD9ED1,
@@ -3657,7 +3657,7 @@ declare namespace RageEnums.Vehicle {
 		REBEL2 = 0x8612B64B,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![rcbandito](https://wiki.rage.mp//images/thumb/f/fc/RCBandito.png/164px-RCBandito.png)
 		 */
 		RCBANDITO = 0xEEF345EC,
@@ -3683,13 +3683,13 @@ declare namespace RageEnums.Vehicle {
 		ZHABA = 0x4C8DBA51,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![verus](https://wiki.rage.mp//images/thumb/1/10/0x11CBC051.png/130px-0x11CBC051.png)
 		 */
 		VERUS = 0x11CBC051,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![winky](https://wiki.rage.mp//images/thumb/b/b2/0xF376F1E6.png/159px-0xF376F1E6.png)
 		 */
 		WINKY = 0xF376F1E6,
@@ -3699,13 +3699,13 @@ declare namespace RageEnums.Vehicle {
 		FORMULA2 = 0x8B213907,
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![openwheel1](https://wiki.rage.mp//images/thumb/a/ae/Openwheel1.png/159px-Openwheel1.png)
 		 */
 		OPENWHEEL1 = 0x58F77553,
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![openwheel2](https://wiki.rage.mp//images/thumb/4/49/Openwheel2.png/159px-Openwheel2.png)
 		 */
 		OPENWHEEL2 = 0x4669D038,
@@ -3787,7 +3787,7 @@ declare namespace RageEnums.Vehicle {
 		VOLATOL = 0x1AAD0DED,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![alkonost](https://wiki.rage.mp//images/thumb/1/1d/0xEA313705.png/164px-0xEA313705.png)
 		 */
 		ALKONOST = 0xEA313705,
@@ -3829,7 +3829,7 @@ declare namespace RageEnums.Vehicle {
 		LANDSTALKER = 0x4BA4E8DC,
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![landstalker2](https://wiki.rage.mp//images/thumb/b/b1/Landstalker2.png/159px-Landstalker2.png)
 		 */
 		LANDSTALKER2 = 0xCE0B9F22,
@@ -3843,7 +3843,7 @@ declare namespace RageEnums.Vehicle {
 		PATRIOT = 0xCFCFEB3B,
 		/**
 		 * DLC: AfterHours
-		 
+
 		 * ![patriot2](https://wiki.rage.mp//images/thumb/8/83/Patriot2.png/164px-Patriot2.png)
 		 */
 		PATRIOT2 = 0xE6E967F8,
@@ -3851,7 +3851,7 @@ declare namespace RageEnums.Vehicle {
 		RADI = 0x9D96B45B,
 		/**
 		 * DLC: TheDiamondCasinoHeist
-		 
+
 		 * ![rebla](https://wiki.rage.mp//images/thumb/9/94/Rebla.png/136px-Rebla.png)
 		 */
 		REBLA = 0x4F48FC4,
@@ -3861,7 +3861,7 @@ declare namespace RageEnums.Vehicle {
 		SEMINOLE = 0x48CECED3,
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![seminole2](https://wiki.rage.mp//images/thumb/d/d9/Seminole2.png/159px-Seminole2.png)
 		 */
 		SEMINOLE2 = 0x94114926,
@@ -3869,7 +3869,7 @@ declare namespace RageEnums.Vehicle {
 		SERRANO = 0x4FB1A214,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![toros](https://wiki.rage.mp//images/thumb/f/f1/Toros.png/164px-Toros.png)
 		 */
 		TOROS = 0xBA5334AC,
@@ -3879,7 +3879,7 @@ declare namespace RageEnums.Vehicle {
 		XLS2 = 0xE6401328,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![squaddie](https://wiki.rage.mp//images/thumb/d/d6/0xF9E67C05.png/147px-0xF9E67C05.png)
 		 */
 		SQUADDIE = 0xF9E67C05,
@@ -3909,7 +3909,7 @@ declare namespace RageEnums.Vehicle {
 		GLENDALE = 0x47A6BC1,
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![glendale2](https://wiki.rage.mp//images/thumb/b/bd/Glendale2.png/159px-Glendale2.png)
 		 */
 		GLENDALE2 = 0xC98BBAD6,
@@ -4001,7 +4001,7 @@ declare namespace RageEnums.Vehicle {
 		COQUETTE = 0x67BC037,
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![coquette4](https://wiki.rage.mp//images/thumb/9/97/Coquette4.png/159px-Coquette4.png)
 		 */
 		COQUETTE4 = 0x98F65A5E,
@@ -4009,7 +4009,7 @@ declare namespace RageEnums.Vehicle {
 		DRAFTER = 0x28EAB80F,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![deveste](https://wiki.rage.mp//images/thumb/3/3f/Deveste.png/164px-Deveste.png)
 		 */
 		DEVESTE = 0x5EE005DA,
@@ -4033,13 +4033,13 @@ declare namespace RageEnums.Vehicle {
 		HOTRING = 0x42836BE5,
 		/**
 		 * DLC: TheDiamondCasinoHeist
-		 
+
 		 * ![komoda](https://wiki.rage.mp//images/thumb/4/47/Komoda.png/164px-Komoda.png)
 		 */
 		KOMODA = 0xCE44C4B9,
 		/**
 		 * DLC: TheDiamondCasinoHeist
-		 
+
 		 * ![imorgon](https://wiki.rage.mp//images/thumb/1/1f/Imorgon.png/164px-Imorgon.png)
 		 */
 		IMORGON = 0xBC7C0A00,
@@ -4047,7 +4047,7 @@ declare namespace RageEnums.Vehicle {
 		ISSI7 = 0x6E8DA4F7,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![italigto](https://wiki.rage.mp//images/thumb/8/83/ItaliGTO.png/164px-ItaliGTO.png)
 		 */
 		ITALIGTO = 0xEC3E3404,
@@ -4093,7 +4093,7 @@ declare namespace RageEnums.Vehicle {
 		PENUMBRA = 0xE9805550,
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![penumbra2](https://wiki.rage.mp//images/thumb/d/dd/Penumbra2.png/159px-Penumbra2.png)
 		 */
 		PENUMBRA2 = 0xDA5EC7DA,
@@ -4109,7 +4109,7 @@ declare namespace RageEnums.Vehicle {
 		REVOLTER = 0xE78CC3D9,
 		/**
 		 * DLC: CunningStunts:SpecialVehicleCircuit
-		 
+
 		 * ![ruston](https://wiki.rage.mp//images/thumb/b/ba/Ruston.png/164px-Ruston.png)
 		 */
 		RUSTON = 0x2AE524A8,
@@ -4119,25 +4119,25 @@ declare namespace RageEnums.Vehicle {
 		SCHAFTER3 = 0xA774B5A6,
 		/**
 		 * DLC: ExecutivesandotherCriminals
-		 
+
 		 * ![schafter4](https://wiki.rage.mp//images/thumb/2/29/Schafter4.png/164px-Schafter4.png)
 		 */
 		SCHAFTER4 = 0x58CF185C,
 		/**
 		 * DLC: ExecutivesandotherCriminals
-		 
+
 		 * ![schafter5](https://wiki.rage.mp//images/thumb/2/28/Schafter5.png/164px-Schafter5.png)
 		 */
 		SCHAFTER5 = 0xCB0E7CD9,
 		/**
 		 * DLC: ExecutivesandotherCriminals
-		 
+
 		 * ![schafter6](https://wiki.rage.mp//images/thumb/a/a6/Schafter6.png/164px-Schafter6.png)
 		 */
 		SCHAFTER6 = 0x72934BE4,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![schlagen](https://wiki.rage.mp//images/thumb/9/97/Schlagen.png/164px-Schlagen.png)
 		 */
 		SCHLAGEN = 0xE1C03AB0,
@@ -4169,43 +4169,43 @@ declare namespace RageEnums.Vehicle {
 		VERLIERER2 = 0x41B77FA4,
 		/**
 		 * DLC: TheDiamondCasinoHeist
-		 
+
 		 * ![vstr](https://wiki.rage.mp//images/thumb/4/43/Vstr.png/164px-Vstr.png)
 		 */
 		VSTR = 0x56CDEE7D,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![zr380](https://wiki.rage.mp//images/thumb/b/ba/ZR380.png/164px-ZR380.png)
 		 */
 		ZR380 = 0x20314B42,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![zr3802](https://wiki.rage.mp//images/thumb/2/21/ZR3802.png/164px-ZR3802.png)
 		 */
 		ZR3802 = 0xBE11EFC6,
 		/**
 		 * DLC: ArenaWar
-		 
+
 		 * ![zr3803](https://wiki.rage.mp//images/thumb/3/35/ZR3803.png/164px-ZR3803.png)
 		 */
 		ZR3803 = 0xA7DCC35C,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![italirsx](https://wiki.rage.mp//images/thumb/1/1a/0xBB78956A.png/164px-0xBB78956A.png)
 		 */
 		ITALIRSX = 0xBB78956A,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![veto](https://wiki.rage.mp//images/thumb/1/11/0xCCE5C8FA.png/157px-0xCCE5C8FA.png)
 		 */
 		VETO = 0xCCE5C8FA,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![veto2](https://wiki.rage.mp//images/thumb/c/cc/0xA703E4A9.png/164px-0xA703E4A9.png)
 		 */
 		VETO2 = 0xA703E4A9,
@@ -4245,7 +4245,7 @@ declare namespace RageEnums.Vehicle {
 		MANANA = 0x81634188,
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![manana2](https://wiki.rage.mp//images/thumb/9/9e/Manana2.png/159px-Manana2.png)
 		 */
 		MANANA2 = 0x665F785D,
@@ -4259,7 +4259,7 @@ declare namespace RageEnums.Vehicle {
 		PEYOTE = 0x6D19CCBC,
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![peyote3](https://wiki.rage.mp//images/thumb/d/d9/Peyote3.png/159px-Peyote3.png)
 		 */
 		PEYOTE3 = 0x4201A843,
@@ -4309,7 +4309,7 @@ declare namespace RageEnums.Vehicle {
 		CHEBUREK = 0xC514AAE0,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![toreador](https://wiki.rage.mp//images/thumb/3/30/0x56C8A5EF.png/164px-0x56C8A5EF.png)
 		 */
 		TOREADOR = 0x56C8A5EF,
@@ -4383,7 +4383,7 @@ declare namespace RageEnums.Vehicle {
 		THRAX = 0x3E3D1F59,
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![tigon](https://wiki.rage.mp//images/thumb/f/f4/Tigon.png/159px-Tigon.png)
 		 */
 		TIGON = 0xAF0B8D48,
@@ -4515,7 +4515,7 @@ declare namespace RageEnums.Vehicle {
 		UTILLITRUCK3 = 0x7F2153DF,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![slamtruck](https://wiki.rage.mp//images/thumb/2/22/0xC1A8A914.png/164px-0xC1A8A914.png)
 		 */
 		SLAMTRUCK = 0xC1A8A914,
@@ -4589,7 +4589,7 @@ declare namespace RageEnums.Vehicle {
 		YOUGA2 = 0x3D29CD2B,
 		/**
 		 * DLC: LosSantosSummerSpecial
-		 
+
 		 * ![youga3](https://wiki.rage.mp//images/thumb/0/00/Youga3.png/159px-Youga3.png)
 		 */
 		YOUGA3 = 0x6B73A9BE,

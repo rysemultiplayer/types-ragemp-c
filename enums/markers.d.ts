@@ -176,6 +176,6 @@ declare namespace RageEnums {
 		/**
 		 * ![](https://docs.fivem.net//markers/43.png)
 		 */
-		CUBE = 43,
+		CUBE = 43
 	}
 }

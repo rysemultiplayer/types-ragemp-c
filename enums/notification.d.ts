@@ -2742,6 +2742,6 @@ declare namespace RageEnums.Notification {
 		 *
 		 * ![WEB_YUNGMARLON](https://wiki.rage.mp/images/5/5a/Web_yungmarlon.jpg),
 		 */
-		WEB_YUNGMARLON = 'WEB_YUNGMARLON',
+		WEB_YUNGMARLON = 'WEB_YUNGMARLON'
 	}
 }

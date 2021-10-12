@@ -64,4 +64,3 @@ declare namespace RageEnums {
 		TOPS = 11
 	}
 }
-

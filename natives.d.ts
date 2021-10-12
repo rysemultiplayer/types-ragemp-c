@@ -7201,7 +7201,7 @@ Everything seems to be in meters, probably this too.
 		 * `ENTITY`
 		 * @name APPLY_FORCE_TO_ENTITY
 		 * Applies a force to the specified entity.
-		 
+
 		 **List of force types (p1)**:
 
 ```
@@ -7695,7 +7695,7 @@ www.allstar.fiu.edu/aero/images/pic5-1.gif
 ```
 
 ### Rotation Orders
-		 
+
 		 *   **0**: ZYX - Rotate around the z-axis, then the y-axis and finally the x-axis.
 		 *   **1**: YZX - Rotate around the y-axis, then the z-axis and finally the x-axis.
 		 *   **2**: ZXY - Rotate around the z-axis, then the x-axis and finally the y-axis.
@@ -14340,7 +14340,7 @@ These values are equivalent to `alignX` and `alignY` in `common:/data/ui/fronten
 for default alignment.
 
 Valid values for `horizontalAlign`, from original documentation:
-		 
+
 		 *   **C (67)** - Center: DRAW_TEXT starts in the middle of the screen, while DRAW_RECT starts on the right; both move with
     the right side of the screen.
 		 *   **L (76)** - Left: Anchors to the left side, DRAW_RECT starts on the left side of the screen, same as DRAW_TEXT when
@@ -14349,7 +14349,7 @@ Valid values for `horizontalAlign`, from original documentation:
     from the right side of the screen, both move with the right side of the screen.
 
 Valid values for `verticalAlign`, from original documentation:
-		 
+
 		 *   **B (66)** - Bottom: DRAW_RECT starts about as far as the middle of the map from the bottom, while DRAW_TEXT is about
     rather centered.
 		 *   **C (67)** - Center: It starts at a certain distance from the bottom, but the distance is fixed, the distance is
@@ -14857,7 +14857,7 @@ Example : Function.Call(Hash.ACTIVATE_FRONTEND_MENU,-1171018317, 0, 42);\
 Result : Opens the "Online" tab without pausing the menu, with -1 it opens the map.
 
 Below is a list of all known Frontend Menu Hashes.
-		 
+
 		 *   FE_MENU_VERSION_SP_PAUSE
 		 *   FE_MENU_VERSION_MP_PAUSE
 		 *   FE_MENU_VERSION_CREATOR_PAUSE
@@ -15497,7 +15497,7 @@ These are some localized strings used in the loading spinner.
 "HUD_QUITTING" = Quiting session
 "KILL_STRIP_IDM" = Waiting for to accept
 "MP_SPINLOADING" = Loading
-		 
+
 		 * @param {string} string
 		 * @return {void}
 		 */
@@ -16799,7 +16799,7 @@ HUD colors and their values: pastebin.com/d9aHPbXN
 		 * This function hides various HUD (Heads-up Display) components.
 
 Listed below are the integers and the corresponding HUD component.
-		 
+
 		 *   1 : WANTED_STARS
 		 *   2 : WEAPON_ICON
 		 *   3 : CASH
@@ -18121,7 +18121,7 @@ HUD::SET_BLIP_ALPHA(blip , 64);
 		 * Examples result:
 
 ![](https://i.imgur.com/skY6vAJ.png)
-		 
+
 		 **index:**
 
 ```
@@ -18135,7 +18135,7 @@ HUD::SET_BLIP_ALPHA(blip , 64);
 Any other value behaves like `index = 1`, `index` wraps around after 255
 
 Blips with categories `7`, `10` or `11` will all show under the specific categories listing in the map legend, regardless of sprite or name.
-		 
+
 		 **Legend entries**
 
 | index | Legend entry | Label |
@@ -18582,7 +18582,7 @@ The `*NONE*` part of the context section means that whatever is being defined, w
 This basically allows you to hide certain menu sections, or things like instructional buttons.
 
 See the old description below for more info.
-		 
+
 		 ***
 
 > Seems to add/set the current menu context (to show/hide buttons?)
@@ -19341,7 +19341,7 @@ GPS functions like the waypoint, except it can contain multiple points it's forc
 Once the player has passed a point, the GPS will no longer force its path through it.
 
 Works independently from the player-placed waypoint and blip routes.
-		 
+
 		 **Example result:**
 
 ![](https://i.imgur.com/ZZHQatX.png)
@@ -19515,7 +19515,7 @@ NativeDB Introduced: v2189
 		 * Starts a new GPS custom-route, allowing you to plot lines on the map.
 Lines are drawn directly between points.
 The GPS custom route works like the GPS multi route, except it does not follow roads.
-		 
+
 		 **Example result:**
 
 ![](https://i.imgur.com/BDm5pzt.png)
@@ -19693,7 +19693,7 @@ enum INSTRUCTIONAL_BUTTON_TYPES
 ```
 
 Note: this list is definitely NOT complete, but these are the ones I've been able to find before giving up because it's such a boring thing to look for 'good' combinations.
-		 
+
 		 **Result of the example code:**
 <https://i.imgur.com/imwoimm.png>
 
@@ -19914,7 +19914,7 @@ Alt = {
       Freemode = 16, -- (ESC)
 }
 ```
-		 
+
 		 **Result of the example code:** <https://i.imgur.com/TvmNF4k.png>
 
 ```
@@ -19984,7 +19984,7 @@ GET_*
 		 * This function shows various HUD (Heads-up Display) components.
 
 Listed below are the integers and the corresponding HUD component.
-		 
+
 		 *   1 : WANTED_STARS
 		 *   2 : WEAPON_ICON
 		 *   3 : CASH
@@ -21698,19 +21698,19 @@ GET_C*
 The radius1 and radius2 might actually not be a radius at all, but that's what it seems to me testing them in-game. But they may be 'angle' floats instead, considering this native is named ADD_STUNT_JUMP\_**ANGLED**.
 
 Info about the specific 'parameter sections':
-		 
+
 		 **x1, y1, z1, x2, y2, z2 and radius1:**
 
 First coordinates are for the jump entry area, and the radius that will be checked around that area. So if you're not exactly within the coordinates, but you are within the outter radius limit then it will still register as entering the stunt jump. Note as mentioned above, the radius is just a guess, I'm not really sure about it's exact purpose.
-		 
+
 		 **x3, y3, z3, x4, y4, z4 and radius2:**
 
 Next part is the landing area, again starting with the left bottom (nearest to the stunt jump entry zone) coordinate, and the second one being the top right furthest away part of the landing area. Followed by another (most likely) radius float, this is usually slightly larger than the entry zone 'radius' float value, just because you have quite a lot of places where you can land (I'm guessing).
-		 
+
 		 **camX, camY and camZ:**
 
 The final coordinate in this native is the Camera position. Rotation and zoom/FOV is managed by the game itself, you just need to provide the camera location.
-		 
+
 		 **unk1, unk2 and unk3:**
 
 Not sure what these are for, but they're always `150, 0, 0` in decompiled scripts.
@@ -28761,7 +28761,7 @@ flags:
 		 * @name CREATE_OBJECT
 		 * Creates an object (prop) with the specified model at the specified position, offset on the Z axis by the radius of the object's model.
 This object will initially be owned by the creating script as a mission entity, and the model should be loaded already (e.g. using REQUEST_MODEL).
-		 
+
 		 **NOTE:** Argument 0 should be `Hash`. <!-- GAMETODO: C# ABI compat stuff? -->
 		 * @param {ObjectMp} modelHash - The model to spawn.
 		 * @param {number} x - Spawn coordinate X component.
@@ -28808,7 +28808,7 @@ This object will initially be owned by the creating script as a mission entity, 
 		 * Lockstates not applied and CNetObjDoor's not created until [DOOR_SYSTEM_GET_IS_PHYSICS_LOADED](0xDF97CDD4FC08FD34) returns true.
 
 ### Door lock states: (v323)
-		 
+
 		 *   **0**: UNLOCKED
 		 *   **1**: LOCKED
 		 *   **2**: DOORSTATE_FORCE_LOCKED_UNTIL_OUT_OF_AREA
@@ -31000,7 +31000,7 @@ gtaforums.com/topic/843561-pathfind-node-types
 		 * Disables the GPS route displayed on the minimap while within a certain zone (area). When in a disabled zone and creating a waypoint, the GPS route is not shown on the minimap until you are outside of the zone. When disabled, the direct distance is shown on minimap opposed to distance to travel. Seems to only work before setting a waypoint.
 
 You can clear the disabled zone with CLEAR_GPS_DISABLED_ZONE_AT_INDEX.
-		 
+
 		 **Setting a waypoint at the same coordinate:**
 
 Disabled Zone: <https://i.imgur.com/P9VUuxM.png>
@@ -35165,7 +35165,7 @@ The function specifically verifies the value is equal to, or less than 1.0f. If 
 		 * @name REGISTER_PEDHEADSHOT_TRANSPARENT
 		 * @alias "0x953563CE563143AF"
 		 * Similar to REGISTER_PEDHEADSHOT but creates a transparent background instead of black.
-		 
+
 		 **Result of the example code:**
 <https://i.imgur.com/iHz8ztn.png>
 		 * @param {PedMp} ped - A ped handle.
@@ -36452,7 +36452,7 @@ Intensity: `1.0`:
 
 Intensity: `0.0`:
 ![](https://www.vespura.com/hi/i/2018-11-13\_17-03\_35c33\_230.png)
-		 
+
 		 **Examples code result**:
 ![](https://www.vespura.com/hi/i/2018-11-13\_17-11\_10199\_232.gif)
 
@@ -36942,7 +36942,7 @@ gtaxscripting.blogspot.com/2016/04/gta-v-peds-component-and-props.html
 		 * This native is used to set prop variation on a ped. Components, drawables and textures IDs are related to the ped model.
 
 ### MP Freemode list of props
-		 
+
 		 **0**: Hat\
 		 **1**: Glass\
 		 **2**: Ear\
@@ -37726,7 +37726,7 @@ range 0.0f - 1.0f
 		 * This native is used to set component variation on a ped. Components, drawables and textures IDs are related to the ped model.
 
 ### MP Freemode list of components
-		 
+
 		 **0**: Face\
 		 **1**: Mask\
 		 **2**: Hair\
@@ -38238,7 +38238,7 @@ PED::SET_PED_IN_VEHICLE_CONTEXT(PLAYER::PLAYER_PED_ID(), MISC::GET_HASH_KEY("MIS
 		 * p4/p5: Unusued in TU27
 
 ### Ragdoll Types
-		 
+
 		 **0**: CTaskNMRelax
 		 **1**: CTaskNMScriptControl: Hardcoded not to work in networked environments.
 		 **Else**: CTaskNMBalance
@@ -48459,7 +48459,7 @@ timeout: The time, in milliseconds, to allow the task to complete. If the task t
 		 * Makes the ped ragdoll like when falling from a great height.
 Playing with p2 and p3 changes the animation's style and behavior.
 In most cases the ped moves backwards then fall on the ground or collapse with a very small change to its position.
-		 
+
 		 *   If p2 or p3 is 1 the ped will move backwards
 		 *   If p2 = 0, p3 = 0 the ped will violently move backwards before falling.
 		 *   If p2 = 1, p3 = 1 the ped will violently move to a random direction.
@@ -52333,7 +52333,7 @@ Returns the number of *types* of licence plates, enumerated below in SET_VEHICLE
 If there is no ped in the seat, and the game considers the vehicle as ambient population, this will create a random occupant ped in the seat, which may be cleaned up by the game fairly soon if not marked as script-owned mission entity.
 
 Seat indexes:
-		 
+
 		 *   \-1 = Driver
 		 *   0 = Front Right Passenger
 		 *   1 = Back Left Passenger
@@ -52343,7 +52343,7 @@ Seat indexes:
 		 *   etc.
 
 One can use GET_VEHICLE_MAX_NUMBER_OF_PASSENGERS(vehicle) to get the amount of seats in a vehicle.
-		 
+
 		 **NativeDB Added Parameter 3**: BOOL p2 (uses a different GetOccupant function)
 		 * @param {VehicleMp} vehicle - The vehicle to get the ped for.
 		 * @param {number} index - The seat index.
@@ -56706,7 +56706,7 @@ Use [`_GET_AIRCRAFT_BOMB_COUNT`](0xEA12BD130D7569A1) to get the amount of bombs 
 		 * @name SET_VEHICLE_ENVEFF_SCALE
 		 * @alias "_SET_VEHICLE_PAINT_FADE"
 		 * Examples with a besra:
-		 
+
 		 *   [fade value `0.0`](https://i.imgur.com/DXNk63e.jpg)
 		 *   [fade value `0.5`](https://i.imgur.com/2Vb35fq.jpg)
 		 *   [fade value `1.0`](https://i.imgur.com/aa8cxaD.jpg)
@@ -57045,7 +57045,7 @@ p1, p2, p3 are RGB values for color (255,0,0 for Red, ect)
 		 * `VEHICLE`
 		 * @name SET_VEHICLE_DENSITY_MULTIPLIER_THIS_FRAME
 		 * **Usage:**
-		 
+
 		 *   Use this native inside a looped function.
 		 *   Values:
 		 *   `0.0` = no vehicles on streets
@@ -57064,7 +57064,7 @@ p1, p2, p3 are RGB values for color (255,0,0 for Red, ect)
 I've only seen this work for `deluxo` though, can't figure out what it's supposed to do on `oppressor2`.
 
 For the deluxo:
-		 
+
 		 *   Set `state` to `0.0`: Fully transform to a 'road' vehicle (non-hover mode).
 		 *   Set `state` to `1.0`: Fully transform to a 'flying' vehicle (hover mode).
 
@@ -57656,7 +57656,7 @@ Use [`_GET_AIRCRAFT_COUNTERMEASURE_COUNT`](0xF846AA63DF56B804) to get the curren
 		 * Used to be incorrectly named `SET_VEHICLE_EXCLUSIVE_DRIVER`; likely `SET_VEHICLE_ALLOW_*`.
          *
          * Toggles a flag related to `SET_VEHICLE_EXCLUSIVE_DRIVER`, however, doesn't enable that feature (or trigger script events related to it).
-         * 
+         *
          * See [`_SET_VEHICLE_EXCLUSIVE_DRIVER_2`](0xB5C51B5502E85E83).
          *
          * ```

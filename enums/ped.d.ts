@@ -1481,307 +1481,307 @@ declare namespace RageEnums.Ped {
 		U_M_Y_CORPSE_01 = "u_m_y_corpse_01",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![a_c_panther](https://wiki.rage.mp//images/thumb/9/97/0xE71D5E68.png/93px-0xE71D5E68.png)
 		 */
 		A_C_PANTHER = "a_c_panther",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![a_f_y_beach_02](https://wiki.rage.mp//images/thumb/a/a5/0xB920CC2B.png/54px-0xB920CC2B.png)
 		 */
 		A_F_Y_BEACH_02 = "a_f_y_beach_02",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![a_f_y_clubcust_04](https://wiki.rage.mp//images/thumb/1/11/0x2EE1E9A0.png/45px-0x2EE1E9A0.png)
 		 */
 		A_F_Y_CLUBCUST_04 = "a_f_y_clubcust_04",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![a_m_o_beach_02](https://wiki.rage.mp//images/thumb/a/ae/0xC1534DF2.png/57px-0xC1534DF2.png)
 		 */
 		A_M_O_BEACH_02 = "a_m_o_beach_02",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![a_m_y_beach_04](https://wiki.rage.mp//images/thumb/b/b4/0xB91A86BC.png/53px-0xB91A86BC.png)
 		 */
 		A_M_Y_BEACH_04 = "a_m_y_beach_04",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![a_m_y_clubcust_04](https://wiki.rage.mp//images/thumb/d/d3/0xE2210515.png/58px-0xE2210515.png)
 		 */
 		A_M_Y_CLUBCUST_04 = "a_m_y_clubcust_04",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![cs_patricia_02](https://wiki.rage.mp//images/thumb/1/17/0x2EFAA8C3.png/44px-0x2EFAA8C3.png)
 		 */
 		CS_PATRICIA_02 = "cs_patricia_02",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_ary](https://wiki.rage.mp//images/thumb/7/7d/0xB65C594E.png/58px-0xB65C594E.png)
 		 */
 		CSB_ARY = "csb_ary",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_englishdave_02](https://wiki.rage.mp//images/thumb/8/89/0xDD59656F.png/62px-0xDD59656F.png)
 		 */
 		CSB_ENGLISHDAVE_02 = "csb_englishdave_02",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_gustavo](https://wiki.rage.mp//images/thumb/f/f1/0x8AF43D22.png/63px-0x8AF43D22.png)
 		 */
 		CSB_GUSTAVO = "csb_gustavo",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_helmsmanpavel](https://wiki.rage.mp//images/thumb/4/44/0x9F7E81F8.png/57px-0x9F7E81F8.png)
 		 */
 		CSB_HELMSMANPAVEL = "csb_helmsmanpavel",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_isldj_00](https://wiki.rage.mp//images/thumb/8/85/0x7A5EE1A5.png/51px-0x7A5EE1A5.png)
 		 */
 		CSB_ISLDJ_00 = "csb_isldj_00",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_isldj_01](https://wiki.rage.mp//images/thumb/0/04/0x34DFD6A4.png/59px-0x34DFD6A4.png)
 		 */
 		CSB_ISLDJ_01 = "csb_isldj_01",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_iSLdj_02](https://wiki.rage.mp//images/thumb/a/af/0x66143910.png/62px-0x66143910.png)
 		 */
 		CSB_ISLDJ_02 = "csb_iSLdj_02",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_isldj_03](https://wiki.rage.mp//images/thumb/7/73/0x917B0FDD.png/61px-0x917B0FDD.png)
 		 */
 		CSB_ISLDJ_03 = "csb_isldj_03",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_isldj_04](https://wiki.rage.mp//images/thumb/c/cb/0xB2BC525F.png/48px-0xB2BC525F.png)
 		 */
 		CSB_ISLDJ_04 = "csb_isldj_04",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_jio](https://wiki.rage.mp//images/thumb/1/1d/0xA28B9E2D.png/52px-0xA28B9E2D.png)
 		 */
 		CSB_JIO = "csb_jio",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_juanstrickler](https://wiki.rage.mp//images/thumb/9/98/0xD74B8139.png/53px-0xD74B8139.png)
 		 */
 		CSB_JUANSTRICKLER = "csb_juanstrickler",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_miguelmadrazo](https://wiki.rage.mp//images/thumb/2/26/0xDBB17082.png/58px-0xDBB17082.png)
 		 */
 		CSB_MIGUELMADRAZO = "csb_miguelmadrazo",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_mjo](https://wiki.rage.mp//images/thumb/0/0e/0xA0FDA755.png/50px-0xA0FDA755.png)
 		 */
 		CSB_MJO = "csb_mjo",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_sss](https://wiki.rage.mp//images/thumb/3/3b/0xE0DBDC60.png/56px-0xE0DBDC60.png)
 		 */
 		CSB_SSS = "csb_sss",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![g_m_m_cartelguards_01](https://wiki.rage.mp//images/thumb/2/2d/0x7ED5AD78.png/59px-0x7ED5AD78.png)
 		 */
 		G_M_M_CARTELGUARDS_01 = "g_m_m_cartelguards_01",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![g_m_m_cartelguards_02](https://wiki.rage.mp//images/thumb/4/42/0x6C8C08E5.png/51px-0x6C8C08E5.png)
 		 */
 		G_M_M_CARTELGUARDS_02 = "g_m_m_cartelguards_02",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_ary](https://wiki.rage.mp//images/thumb/2/25/0xCF0C7037.png/62px-0xCF0C7037.png)
 		 */
 		IG_ARY = "ig_ary",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_englishdave_02](https://wiki.rage.mp//images/thumb/5/5f/0x35FFA54A.png/63px-0x35FFA54A.png)
 		 */
 		IG_ENGLISHDAVE_02 = "ig_englishdave_02",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_gustavo](https://wiki.rage.mp//images/thumb/0/0f/0xB585B217.png/61px-0xB585B217.png)
 		 */
 		IG_GUSTAVO = "ig_gustavo",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_helmsmanpavel](https://wiki.rage.mp//images/thumb/9/9b/0xD7C1E2B1.png/50px-0xD7C1E2B1.png)
 		 */
 		IG_HELMSMANPAVEL = "ig_helmsmanpavel",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_isldj_00](https://wiki.rage.mp//images/thumb/7/7c/0xE2A32E68.png/62px-0xE2A32E68.png)
 		 */
 		IG_ISLDJ_00 = "ig_isldj_00",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_isldj_01](https://wiki.rage.mp//images/thumb/6/6b/0x6F4747CE.png/54px-0x6F4747CE.png)
 		 */
 		IG_ISLDJ_01 = "ig_isldj_01",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_isldj_02](https://wiki.rage.mp//images/thumb/b/b2/0x5D1DA37B.png/57px-0x5D1DA37B.png)
 		 */
 		IG_ISLDJ_02 = "ig_isldj_02",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_isldj_03](https://wiki.rage.mp//images/thumb/9/95/0x13360FA9.png/56px-0x13360FA9.png)
 		 */
 		IG_ISLDJ_03 = "ig_isldj_03",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_isldj_04](https://wiki.rage.mp//images/thumb/6/69/0x806E6A1C.png/58px-0x806E6A1C.png)
 		 */
 		IG_ISLDJ_04 = "ig_isldj_04",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_isldj_04_d_01](https://wiki.rage.mp//images/thumb/a/ab/0xB193BD6A.png/49px-0xB193BD6A.png)
 		 */
 		IG_ISLDJ_04_D_01 = "ig_isldj_04_d_01",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_isldj_04_d_02](https://wiki.rage.mp//images/thumb/6/68/0xFDF6562E.png/49px-0xFDF6562E.png)
 		 */
 		IG_ISLDJ_04_D_02 = "ig_isldj_04_d_02",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_isldj_04_e_01](https://wiki.rage.mp//images/thumb/9/9d/0x232D795D.png/48px-0x232D795D.png)
 		 */
 		IG_ISLDJ_04_E_01 = "ig_isldj_04_e_01",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_jackie](https://wiki.rage.mp//images/thumb/f/fc/0x799E61F6.png/57px-0x799E61F6.png)
 		 */
 		IG_JACKIE = "ig_jackie",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_jio](https://wiki.rage.mp//images/thumb/d/d8/0x73775F3F.png/59px-0x73775F3F.png)
 		 */
 		IG_JIO = "ig_jio",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_juanstrickler](https://wiki.rage.mp//images/thumb/8/8c/0x1E3E327D.png/70px-0x1E3E327D.png)
 		 */
 		IG_JUANSTRICKLER = "ig_juanstrickler",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_kaylee](https://wiki.rage.mp//images/thumb/9/9d/0xA7810923.png/65px-0xA7810923.png)
 		 */
 		IG_KAYLEE = "ig_kaylee",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_miguelmadrazo](https://wiki.rage.mp//images/thumb/0/06/0xA5CD7CD8.png/66px-0xA5CD7CD8.png)
 		 */
 		IG_MIGUELMADRAZO = "ig_miguelmadrazo",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_mjo](https://wiki.rage.mp//images/thumb/7/79/0x2D5DB362.png/68px-0x2D5DB362.png)
 		 */
 		IG_MJO = "ig_mjo",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_oldrichguy](https://wiki.rage.mp//images/thumb/0/0c/0x3C04504A.png/58px-0x3C04504A.png)
 		 */
 		IG_OLDRICHGUY = "ig_oldrichguy",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_patricia_02](https://wiki.rage.mp//images/thumb/3/3b/0xC3114CB1.png/62px-0xC3114CB1.png)
 		 */
 		IG_PATRICIA_02 = "ig_patricia_02",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_pilot](https://wiki.rage.mp//images/thumb/6/66/0x864ED68E.png/70px-0x864ED68E.png)
 		 */
 		IG_PILOT = "ig_pilot",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_sss](https://wiki.rage.mp//images/thumb/4/4a/0x3B18E305.png/75px-0x3B18E305.png)
 		 */
 		IG_SSS = "ig_sss",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![s_f_y_beachbarstaff_01](https://wiki.rage.mp//images/thumb/d/da/0xC2E31A0A.png/68px-0xC2E31A0A.png)
 		 */
 		S_F_Y_BEACHBARSTAFF_01 = "s_f_y_beachbarstaff_01",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![s_f_y_clubbar_02](https://wiki.rage.mp//images/thumb/6/6f/0x55C5627B.png/66px-0x55C5627B.png)
 		 */
 		S_F_Y_CLUBBAR_02 = "s_f_y_clubbar_02",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![s_m_m_bouncer_02](https://wiki.rage.mp//images/thumb/8/8d/0x52060D92.png/63px-0x52060D92.png)
 		 */
 		S_M_M_BOUNCER_02 = "s_m_m_bouncer_02",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![s_m_m_drugprocess_01](https://wiki.rage.mp//images/thumb/a/ad/0x5C366C83.png/66px-0x5C366C83.png)
 		 */
 		S_M_M_DRUGPROCESS_01 = "s_m_m_drugprocess_01",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![s_m_m_fieldworker_01](https://wiki.rage.mp//images/thumb/5/55/0x9074CA50.png/64px-0x9074CA50.png)
 		 */
 		S_M_M_FIELDWORKER_01 = "s_m_m_fieldworker_01",
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![s_m_m_highsec_04](https://wiki.rage.mp//images/thumb/8/87/0x55FE9B46.png/79px-0x55FE9B46.png)
 		 */
 		S_M_M_HIGHSEC_04 = "s_m_m_highsec_04",
@@ -3269,307 +3269,307 @@ declare namespace RageEnums.Ped {
 		U_M_Y_CORPSE_01 = 0x94C2A03F,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![a_c_panther](https://wiki.rage.mp//images/thumb/9/97/0xE71D5E68.png/93px-0xE71D5E68.png)
 		 */
 		A_C_PANTHER = 0xE71D5E68,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![a_f_y_beach_02](https://wiki.rage.mp//images/thumb/a/a5/0xB920CC2B.png/54px-0xB920CC2B.png)
 		 */
 		A_F_Y_BEACH_02 = 0xB920CC2B,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![a_f_y_clubcust_04](https://wiki.rage.mp//images/thumb/1/11/0x2EE1E9A0.png/45px-0x2EE1E9A0.png)
 		 */
 		A_F_Y_CLUBCUST_04 = 0x2EE1E9A0,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![a_m_o_beach_02](https://wiki.rage.mp//images/thumb/a/ae/0xC1534DF2.png/57px-0xC1534DF2.png)
 		 */
 		A_M_O_BEACH_02 = 0xC1534DF2,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![a_m_y_beach_04](https://wiki.rage.mp//images/thumb/b/b4/0xB91A86BC.png/53px-0xB91A86BC.png)
 		 */
 		A_M_Y_BEACH_04 = 0xB91A86BC,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![a_m_y_clubcust_04](https://wiki.rage.mp//images/thumb/d/d3/0xE2210515.png/58px-0xE2210515.png)
 		 */
 		A_M_Y_CLUBCUST_04 = 0xE2210515,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![cs_patricia_02](https://wiki.rage.mp//images/thumb/1/17/0x2EFAA8C3.png/44px-0x2EFAA8C3.png)
 		 */
 		CS_PATRICIA_02 = 0x2EFAA8C3,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_ary](https://wiki.rage.mp//images/thumb/7/7d/0xB65C594E.png/58px-0xB65C594E.png)
 		 */
 		CSB_ARY = 0xB65C594E,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_englishdave_02](https://wiki.rage.mp//images/thumb/8/89/0xDD59656F.png/62px-0xDD59656F.png)
 		 */
 		CSB_ENGLISHDAVE_02 = 0xDD59656F,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_gustavo](https://wiki.rage.mp//images/thumb/f/f1/0x8AF43D22.png/63px-0x8AF43D22.png)
 		 */
 		CSB_GUSTAVO = 0x8AF43D22,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_helmsmanpavel](https://wiki.rage.mp//images/thumb/4/44/0x9F7E81F8.png/57px-0x9F7E81F8.png)
 		 */
 		CSB_HELMSMANPAVEL = 0x9F7E81F8,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_isldj_00](https://wiki.rage.mp//images/thumb/8/85/0x7A5EE1A5.png/51px-0x7A5EE1A5.png)
 		 */
 		CSB_ISLDJ_00 = 0x7A5EE1A5,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_isldj_01](https://wiki.rage.mp//images/thumb/0/04/0x34DFD6A4.png/59px-0x34DFD6A4.png)
 		 */
 		CSB_ISLDJ_01 = 0x34DFD6A4,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_iSLdj_02](https://wiki.rage.mp//images/thumb/a/af/0x66143910.png/62px-0x66143910.png)
 		 */
 		CSB_ISLDJ_02 = 0x66143910,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_isldj_03](https://wiki.rage.mp//images/thumb/7/73/0x917B0FDD.png/61px-0x917B0FDD.png)
 		 */
 		CSB_ISLDJ_03 = 0x917B0FDD,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_isldj_04](https://wiki.rage.mp//images/thumb/c/cb/0xB2BC525F.png/48px-0xB2BC525F.png)
 		 */
 		CSB_ISLDJ_04 = 0xB2BC525F,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_jio](https://wiki.rage.mp//images/thumb/1/1d/0xA28B9E2D.png/52px-0xA28B9E2D.png)
 		 */
 		CSB_JIO = 0xA28B9E2D,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_juanstrickler](https://wiki.rage.mp//images/thumb/9/98/0xD74B8139.png/53px-0xD74B8139.png)
 		 */
 		CSB_JUANSTRICKLER = 0xD74B8139,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_miguelmadrazo](https://wiki.rage.mp//images/thumb/2/26/0xDBB17082.png/58px-0xDBB17082.png)
 		 */
 		CSB_MIGUELMADRAZO = 0xDBB17082,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_mjo](https://wiki.rage.mp//images/thumb/0/0e/0xA0FDA755.png/50px-0xA0FDA755.png)
 		 */
 		CSB_MJO = 0xA0FDA755,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![csb_sss](https://wiki.rage.mp//images/thumb/3/3b/0xE0DBDC60.png/56px-0xE0DBDC60.png)
 		 */
 		CSB_SSS = 0xE0DBDC60,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![g_m_m_cartelguards_01](https://wiki.rage.mp//images/thumb/2/2d/0x7ED5AD78.png/59px-0x7ED5AD78.png)
 		 */
 		G_M_M_CARTELGUARDS_01 = 0x7ED5AD78,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![g_m_m_cartelguards_02](https://wiki.rage.mp//images/thumb/4/42/0x6C8C08E5.png/51px-0x6C8C08E5.png)
 		 */
 		G_M_M_CARTELGUARDS_02 = 0x6C8C08E5,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_ary](https://wiki.rage.mp//images/thumb/2/25/0xCF0C7037.png/62px-0xCF0C7037.png)
 		 */
 		IG_ARY = 0xCF0C7037,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_englishdave_02](https://wiki.rage.mp//images/thumb/5/5f/0x35FFA54A.png/63px-0x35FFA54A.png)
 		 */
 		IG_ENGLISHDAVE_02 = 0x35FFA54A,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_gustavo](https://wiki.rage.mp//images/thumb/0/0f/0xB585B217.png/61px-0xB585B217.png)
 		 */
 		IG_GUSTAVO = 0xB585B217,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_helmsmanpavel](https://wiki.rage.mp//images/thumb/9/9b/0xD7C1E2B1.png/50px-0xD7C1E2B1.png)
 		 */
 		IG_HELMSMANPAVEL = 0xD7C1E2B1,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_isldj_00](https://wiki.rage.mp//images/thumb/7/7c/0xE2A32E68.png/62px-0xE2A32E68.png)
 		 */
 		IG_ISLDJ_00 = 0xE2A32E68,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_isldj_01](https://wiki.rage.mp//images/thumb/6/6b/0x6F4747CE.png/54px-0x6F4747CE.png)
 		 */
 		IG_ISLDJ_01 = 0x6F4747CE,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_isldj_02](https://wiki.rage.mp//images/thumb/b/b2/0x5D1DA37B.png/57px-0x5D1DA37B.png)
 		 */
 		IG_ISLDJ_02 = 0x5D1DA37B,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_isldj_03](https://wiki.rage.mp//images/thumb/9/95/0x13360FA9.png/56px-0x13360FA9.png)
 		 */
 		IG_ISLDJ_03 = 0x13360FA9,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_isldj_04](https://wiki.rage.mp//images/thumb/6/69/0x806E6A1C.png/58px-0x806E6A1C.png)
 		 */
 		IG_ISLDJ_04 = 0x806E6A1C,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_isldj_04_d_01](https://wiki.rage.mp//images/thumb/a/ab/0xB193BD6A.png/49px-0xB193BD6A.png)
 		 */
 		IG_ISLDJ_04_D_01 = 0xB193BD6A,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_isldj_04_d_02](https://wiki.rage.mp//images/thumb/6/68/0xFDF6562E.png/49px-0xFDF6562E.png)
 		 */
 		IG_ISLDJ_04_D_02 = 0xFDF6562E,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_isldj_04_e_01](https://wiki.rage.mp//images/thumb/9/9d/0x232D795D.png/48px-0x232D795D.png)
 		 */
 		IG_ISLDJ_04_E_01 = 0x232D795D,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_jackie](https://wiki.rage.mp//images/thumb/f/fc/0x799E61F6.png/57px-0x799E61F6.png)
 		 */
 		IG_JACKIE = 0x799E61F6,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_jio](https://wiki.rage.mp//images/thumb/d/d8/0x73775F3F.png/59px-0x73775F3F.png)
 		 */
 		IG_JIO = 0x73775F3F,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_juanstrickler](https://wiki.rage.mp//images/thumb/8/8c/0x1E3E327D.png/70px-0x1E3E327D.png)
 		 */
 		IG_JUANSTRICKLER = 0x1E3E327D,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_kaylee](https://wiki.rage.mp//images/thumb/9/9d/0xA7810923.png/65px-0xA7810923.png)
 		 */
 		IG_KAYLEE = 0xA7810923,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_miguelmadrazo](https://wiki.rage.mp//images/thumb/0/06/0xA5CD7CD8.png/66px-0xA5CD7CD8.png)
 		 */
 		IG_MIGUELMADRAZO = 0xA5CD7CD8,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_mjo](https://wiki.rage.mp//images/thumb/7/79/0x2D5DB362.png/68px-0x2D5DB362.png)
 		 */
 		IG_MJO = 0x2D5DB362,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_oldrichguy](https://wiki.rage.mp//images/thumb/0/0c/0x3C04504A.png/58px-0x3C04504A.png)
 		 */
 		IG_OLDRICHGUY = 0x3C04504A,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_patricia_02](https://wiki.rage.mp//images/thumb/3/3b/0xC3114CB1.png/62px-0xC3114CB1.png)
 		 */
 		IG_PATRICIA_02 = 0xC3114CB1,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_pilot](https://wiki.rage.mp//images/thumb/6/66/0x864ED68E.png/70px-0x864ED68E.png)
 		 */
 		IG_PILOT = 0x864ED68E,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![ig_sss](https://wiki.rage.mp//images/thumb/4/4a/0x3B18E305.png/75px-0x3B18E305.png)
 		 */
 		IG_SSS = 0x3B18E305,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![s_f_y_beachbarstaff_01](https://wiki.rage.mp//images/thumb/d/da/0xC2E31A0A.png/68px-0xC2E31A0A.png)
 		 */
 		S_F_Y_BEACHBARSTAFF_01 = 0xC2E31A0A,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![s_f_y_clubbar_02](https://wiki.rage.mp//images/thumb/6/6f/0x55C5627B.png/66px-0x55C5627B.png)
 		 */
 		S_F_Y_CLUBBAR_02 = 0x55C5627B,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![s_m_m_bouncer_02](https://wiki.rage.mp//images/thumb/8/8d/0x52060D92.png/63px-0x52060D92.png)
 		 */
 		S_M_M_BOUNCER_02 = 0x52060D92,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![s_m_m_drugprocess_01](https://wiki.rage.mp//images/thumb/a/ad/0x5C366C83.png/66px-0x5C366C83.png)
 		 */
 		S_M_M_DRUGPROCESS_01 = 0x5C366C83,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![s_m_m_fieldworker_01](https://wiki.rage.mp//images/thumb/5/55/0x9074CA50.png/64px-0x9074CA50.png)
 		 */
 		S_M_M_FIELDWORKER_01 = 0x9074CA50,
 		/**
 		 * DLC: TheCayoPericoHeist
-		 
+
 		 * ![s_m_m_highsec_04](https://wiki.rage.mp//images/thumb/8/87/0x55FE9B46.png/79px-0x55FE9B46.png)
 		 */
 		S_M_M_HIGHSEC_04 = 0x55FE9B46,
