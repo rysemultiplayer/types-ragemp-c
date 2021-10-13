@@ -4874,10 +4874,6 @@ interface IClientEvents {
 	render: (nametags: [PlayerMp, number, number, number][]) => void;
 }
 
-// function prop<T, K extends keyof T>(obj: T, key: K) {
-// 	return obj[key];
-// }
-
 interface EventMpPool {
 	addDataHandler(keyName: string, callback: (...args: any[]) => void): void;
 
